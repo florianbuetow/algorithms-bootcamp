@@ -1,5 +1,5 @@
 # algorithms-bootcamp
-A courted list of resources about practical data structures and algorithms
+A curated list of resources about practical data structures and algorithms
 
 # Dynamic Programming
 This section contains a list of resources to learn about dynamic programing
